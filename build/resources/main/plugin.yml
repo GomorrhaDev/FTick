@@ -1,0 +1,6 @@
+name: FTick
+version: '1.0-SNAPSHOT'
+main: dev.gomorrha.ftick.FTick
+api-version: '1.21'
+authors: [kugge, gmrrh]
+folia-supported: true
